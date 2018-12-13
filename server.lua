@@ -1,3 +1,9 @@
+-----------------------
+-- Lucifer
+-- Copyrighted © Lucifer 2018
+-- Do not redistribute or edit in any way without my permission.
+-----------------------
+
 peacetime = false
 
 RegisterCommand('cancelp', function(source)
