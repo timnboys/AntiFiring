@@ -35,7 +35,6 @@ Citizen.CreateThread(function()
 			DisableControlAction(0, 237)
 			DisableControlAction(0, 257)
 			DisableControlAction(0, 329)
-			DisableControlAction(0, 349)
 			if IsDisabledControlPressed(0, 24) or IsDisabledControlPressed(0, 25) then
 				DisablePlayerFiring(ply, true)
 				showNotification("~r~Peacetime Activated ~n~~w~You cannot shoot during peacetime.")
